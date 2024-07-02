@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    dark_theme-->
+    <color name="application_background">#080808</color>
+    <color name="Button_Color">#FEFEFE</color>
+    <color name="quote_text_color">#FCFCFC</color>
+    <color name="author_name_color">#626262</color>
+    <color name="quote_card_color">#151515</color>
+    <color name="button_text_color">#151515</color>
+    <color name="card_btn_color">#FEFEFE</color>
+    <color name="splash_bg">#000000</color>
+    <color name="splash_text">#FCFCFC</color>
+    <color name="ic_favlist_color">#fff</color>
+
+
+
+
+</resources>

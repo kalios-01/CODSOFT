@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    white theme-->
+    <color name="application_background">#F3F4F6</color>
+    <color name="Button_Color">#2958DD</color>
+    <color name="quote_text_color">#0B0B0B</color>
+    <color name="author_name_color">#A1ABBC</color>
+    <color name="quote_card_color">#F3F4F8</color>
+    <color name="button_text_color">#F3F4F8</color>
+    <color name="card_btn_color">#A1ABBC</color>
+    <color name="splash_bg">#009688</color>
+    <color name="ic_favlist_color">#2958DC</color>
+
+
+
+
+</resources>
